@@ -245,7 +245,7 @@ p {
 #hero h1{
     display: block;
     width: fit-content;
-    font-size: 3.8rem;
+    font-size: 3.6rem;
     position: relative;
     color: transparent;
     animation: text_reveal .5s ease forwards;
