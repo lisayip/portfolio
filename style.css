@@ -254,7 +254,7 @@ p {
 #hero h1{
     display: block;
     width: fit-content;
-    font-size: 4rem;
+    font-size: 3.8rem;
     position: relative;
     color: transparent;
     animation: text_reveal .5s ease forwards;
@@ -292,7 +292,7 @@ p {
 }
 
 #hero p {
-    font-size: 2.6rem;
+    font-size: 2.5rem;
     color: white;
     padding: .5em 0 0em 0;
     margin-bottom: 20px;
