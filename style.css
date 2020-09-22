@@ -712,21 +712,22 @@ p {
     display: flex;
     flex-wrap: wrap;
     flex: 1;
-    margin: 20px;
-    padding: 20px;
-    border: 2px solid rgb(49, 85, 119);
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid rgb(49, 85, 119);
     border-radius: 4px;
     transition: all .3s ease;
 }
-.contentz i {
-    font-size: 5em;
-    color: rgb(219, 34, 120);
+.contentz h2 {
+    font-size: large;
+    
 }
 
 
 .contentz .fas {
-    font-size: 70px;
+    font-size: 50px;
     margin: 16px 0;
+    color: rgb(219, 34, 120);
 
 }
 
