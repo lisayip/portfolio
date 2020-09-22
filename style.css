@@ -759,11 +759,11 @@ p {
     color: #4c82a7;
 }
 .card-3:hover {
-    border-color:#c975d1;
+    border-color:#4c82a7;
     background:  linear-gradient(to top, #30cfd0 0%, #330867 100%);
 }
 .card-3:hover a {
-    color: #c975d1;
+    color: #4c82a7;
 }
 
 
