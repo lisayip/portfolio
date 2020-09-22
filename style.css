@@ -35,7 +35,7 @@ img {
 }
 p {
     color: black;
-    font-size: 1.8rem;
+    font-size: 2rem;
     margin-top: 5px;
     line-height: 2.5rem;
     font-weight: 300;
@@ -283,7 +283,7 @@ p {
 }
 
 #hero p {
-    font-size: 2.5rem;
+    font-size: 2.4rem;
     color: white;
     padding: .5em 0 0em 0;
     margin-bottom: 20px;
