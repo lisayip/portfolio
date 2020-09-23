@@ -538,7 +538,8 @@ p {
 }
 
 #contact .contact-items {
-    width: 200px;
+    width: 280px;
+    justify-content: center;
 
 }
 #contact .contact-item {
