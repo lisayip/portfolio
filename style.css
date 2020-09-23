@@ -305,6 +305,10 @@ p {
     padding: 60px 0;
 }
 
+#services .service-top {
+  
+    margin:  20px;
+}
 
 .serviced {
     display: flex;
@@ -327,10 +331,10 @@ p {
     border-radius: 4px;
     transition: all .3s ease;
 }
+
 .contentz h2 {
     font-size: large;
-    
-   
+      
 }
 
 
