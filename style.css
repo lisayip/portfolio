@@ -239,7 +239,7 @@ p {
 #hero .hero {
     max-width: 1200px;
     margin: 0 auto;
-    padding: 0 50px;
+    padding: 0 40px;
     justify-content: flex-start;
 }
 #hero h1{
