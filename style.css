@@ -306,14 +306,14 @@ p {
 }
 
 
-
-
-
-
-
 .serviced {
     display: flex;
     align-items: center;
+
+}
+
+.serviced p{
+   text-align: left;
 
 }
 
