@@ -475,6 +475,11 @@ p {
 
 }
 
+.projects-container-part {
+    max-width: 1000px;
+    margin: 0 auto;
+    display: flex;
+}
 
 .iframe-container {
     position: relative;
