@@ -914,6 +914,7 @@ a {
         flex-direction: row;
         max-width: 90rem;
         margin: 30px;
+        align-items: left;
     }
 
     .image-data {
