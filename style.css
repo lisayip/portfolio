@@ -924,6 +924,7 @@ a {
     .publication-details {
         transform: translateX(-100%);
         transition: transform .5s;
+        text-align: left;
     }
     .card:hover .publication-details{
         transform: translateX(0);
@@ -947,6 +948,7 @@ a {
     }
     .post-data{
         flex-basis: 80%;
+        text-align: left;
     }
     
 
